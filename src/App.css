@@ -1,0 +1,156 @@
+.LoginPage {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color:#1a237e;
+ 
+}
+.menuItem.active{
+  background-color: whitesmoke;
+  color:black;
+}
+.menuItem:hover{
+  background-color: none !important;
+}
+.forgot{
+  background-color: #1a237e;
+}
+input#\:rb\: {
+  padding: 8px;
+  
+
+}
+li.ps-menuitem-root.css-1t8x7v1:hover {
+  color:black
+      
+  }
+ 
+input#\:r1l\: {
+  padding: 10px !important;
+}
+td.MuiTableCell-root.MuiTableCell-body.MuiTableCell-sizeMedium.css-1ex1afd-MuiTableCell-root {
+  padding-right: 2px;
+}
+.ps-sidebar-container.css-dip3t8 {
+  background-color:#1a237e;
+  color:white;
+}
+.LoginPage-Paper {
+  border-radius: 20%;
+  height: 500px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: aliceblue !important;
+
+  font-size: 20px;
+  color: #1a237e;
+}
+.header{
+  background-color:#1a237e ;
+  height:70px;
+  width:100%;
+  color:white;
+}
+.content{
+  background-image: url('./Components/backgroundNew.png');
+  background-repeat: no-repeat;
+background-size: cover;
+}
+.Team-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.newsfeed {
+  background-color: pink;
+}
+.NewsFeed-MasterCard {
+  height: 100%;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+}
+.NewsFeed-Card {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.News-Label-Input {
+  display: flex;
+  flex-direction: row;
+  padding-top: 30px;
+}
+
+.AddNews-Label {
+  font-size: 20px;
+  padding-left: 200px;
+  padding-top: 20px;
+}
+
+.AddNews-Input {
+  width: 220px;
+  height: 40px;
+}
+
+.Profile-Modal {
+  height: 500px;
+  width: 500px;
+  margin-top: 150px;
+  margin-left: 600px;
+background-color:#e1edf6;
+  border-radius: 10px;
+}
+#sidebar,#app{
+  background-color:#1a237e !important;
+}
+span.active{
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: green;
+  margin-left: 10px;
+  margin-right: 5px;
+  color:green;
+}
+span.inactive{
+  display: inline-block;
+  color:red;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: red;
+  margin-left: 10px;
+  margin-right: 5px;
+}
+.statusactive{
+  color:rgb(0, 128, 0);
+  
+}
+.statusinactive{
+  color:red;
+}
+.tbody tr td{
+  font-size: 16px !important;
+  padding-left: 10px;
+}
+select.form-select {
+  background: transparent;
+}
+.input {
+  transform: scale(1.5); /* increase the size of the switch */
+}
+.m-1.input.form-switch {
+  padding-left: 35%;
+}
+.MuiTableContainer-root.css-rorn0c-MuiTableContainer-root {
+  overflow-x: hidden;
+}

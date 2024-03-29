@@ -1,0 +1,48 @@
+{
+    "team": [
+  {
+    "teamId": 1,
+    "teamName": "Flexdrop",
+    "isActive": true,
+    "createdAt": "2024-01-04T05:52:08.893+00:00",
+    "updatedAt": "2024-01-04T05:52:08.893+00:00",
+    "createdBy": null,
+    "updatedBy": null
+  }, 
+  {
+    "teamId": 3,
+    "teamName": "Ford Move",
+    "isActive": true,
+    "createdAt": "2024-01-04T05:52:08.893+00:00",
+    "updatedAt": "2024-01-04T05:52:08.893+00:00",
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "teamId": 2,
+    "teamName": "Ford Move",
+    "isActive": true,
+    "createdAt": "2024-01-04T05:52:08.893+00:00",
+    "updatedAt": "2024-01-04T05:52:08.893+00:00",
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "teamId": 4,
+    "teamName": "CMRL",
+    "isActive": true,
+    "createdAt": "2024-01-04T05:52:08.893+00:00",
+    "updatedAt": "2024-01-04T05:52:08.893+00:00",
+    "createdBy": null,
+    "updatedBy": null
+  },
+  {
+    "teamId": 5,
+    "teamName": "Ford energy",
+    "isActive": false,
+    "createdAt": "2024-01-04T05:52:08.893+00:00",
+    "updatedAt": "2024-01-04T05:52:08.893+00:00",
+    "createdBy": null,
+    "updatedBy": null
+  }
+]      }
