@@ -1,0 +1,163 @@
+{
+    "totalHeadCount": 100,
+    "sourceResponseMap": [
+        {
+            "count": "20",
+            "sourceType": "Ford",
+            "percentage": "20"
+        },
+        {
+            "count": "25",
+            "sourceType": "Agency",
+            "percentage": "25"
+        },
+        {
+            "count": "55",
+            "sourceType": "Purchase",
+            "percentage": "55"
+        }
+    ],
+    "genderCount": [
+        {
+            "count": "80",
+            "gender": "Male",
+            "percentage": "80"
+        },
+        {
+            "count": "20",
+            "gender": "Female",
+            "percentage": "20"
+        }
+    ],
+    "totalBudget": "$4,00,000",
+    "budget": [
+        {
+            "type": "Spent",
+            "amount": "$ 2,47,800",
+            "percentage": "50"
+        },
+        {
+            "type": "Remaining",
+            "amount": "$ 2,47,800",
+            "percentage": "50"
+        }
+    ],
+    "resource": [
+        {
+            "Price & details": "Ford",
+            "Month": "$1560",
+            "Day": "$560",
+            "Hour": "$40"
+        },
+        {
+            "Price & details": "Agency",
+            "Month": "$1560",
+            "Day": "$560",
+            "Hour": "$40"
+        },
+        {
+            "Price & details": "Purchase",
+            "Month": "$1560",
+            "Day": "$560",
+            "Hour": "$40"
+        },
+        {
+            "Price & details": "Average",
+            "Month": "$1560",
+            "Day": "$560",
+            "Hour": "$40"
+        }
+    ],
+    "countDetails": [
+        {
+            "sector": "IT",
+            "role": "PO",
+            "ford": "1",
+            "agency": "2",
+            "purcharse": "3",
+            "percentage": "6%",
+            "total": "6"
+        },
+        {
+            "sector": "IT",
+            "role": "PM",
+            "ford": "1",
+            "agency": "2",
+            "purcharse": "3",
+            "percentage": "6%",
+            "total": "6"
+        },
+        {
+            "sector": "IT",
+            "role": "Frontend",
+            "ford": "2",
+            "agency": "2",
+            "purcharse": "6",
+            "percentage": "10%",
+            "total": "10"
+        },
+        {
+            "sector": "IT",
+            "role": "Backend",
+            "ford": "3",
+            "agency": "4",
+            "purcharse": "9",
+            "percentage": "16%",
+            "total": "16"
+        },
+        {
+            "sector": "IT",
+            "role": "Android",
+            "ford": "1",
+            "agency": "2",
+            "purcharse": "3",
+            "percentage": "6%",
+            "total": "6"
+        },
+        {
+            "sector": "IT",
+            "role": "iOS",
+            "ford": "1",
+            "agency": "2",
+            "purcharse": "3",
+            "percentage": "6%",
+            "total": "6"
+        },
+        {
+            "sector": "IT",
+            "role": "Testing",
+            "ford": "4",
+            "agency": "2",
+            "purcharse": "7",
+            "percentage": "13%",
+            "total": "13"
+        },
+        {
+            "sector": "Non-IT",
+            "role": "Admin",
+            "ford": "2",
+            "agency": "1",
+            "purcharse": "6",
+            "percentage": "9%",
+            "total": "9"
+        },
+        {
+            "sector": "Non-IT",
+            "role": "Sales",
+            "ford": "1",
+            "agency": "2",
+            "purcharse": "3",
+            "percentage": "6%",
+            "total": "6"
+        },
+        {
+            "sector": "Non-IT",
+            "role": "AMC Tech",
+            "ford": "2",
+            "agency": "2",
+            "purcharse": "6",
+            "percentage": "10%",
+            "total": "10"
+        }
+    ]
+}

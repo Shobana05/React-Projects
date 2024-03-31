@@ -1,0 +1,19 @@
+{
+    "totalBudget": "$4,00,000",
+    "budget": [
+        {
+            "type": "Spent",
+            "amount": "$ 2,47,800",
+            "percentage": "50"
+        },
+        {
+            "type": "Remaining",
+            "amount": "$ 2,47,800",
+            "percentage": "50"
+        }
+    ],
+    "budgetPercent": {
+        "spentPercent": "50",
+        "remainPercent": "50"
+    }
+}
