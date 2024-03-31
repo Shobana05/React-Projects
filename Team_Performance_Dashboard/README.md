@@ -11,60 +11,32 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### This React project focuses on creating a comprehensive Team Management and Financial Tracking Dashboard for efficient project management. The dashboard encompasses the following key components:
 
-### `npm test`
+## Team Overview:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Provides insights into the total headcount classified into direct employees, purchases, and vendors, with a breakdown by gender (female and male).
 
-### `npm run build`
+## Budget Tracking:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Visual representation of the total budget for the team, showcasing the spent amount and remaining funds through an interactive progress bar.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Resource Cost Analysis:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Detailed analysis of resource costs per hour, categorized by direct employees, agency staff, and purchased resources.
 
-### `npm run eject`
+## Headcount Details by Job Roles:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Breakdown of headcount by categories (direct, purchase, vendors) for specific job roles such as project managers, frontend developers, backend developers, Android developers, etc.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Cost Planning and Execution:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Mapping of cost plans and execution from January to December, displaying forecasted and actual values for better 
+financial management.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Vendor Operations Analysis:
 
-## Learn More
+Detailed analysis of vendor operations from January to December, including vendor bills, revenue generated, and profit margins.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## NOTE:
+The project uses mock JSON data to simulate and display team and financial information in the dashboard.
